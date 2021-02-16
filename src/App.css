@@ -1,0 +1,91 @@
+.App1{
+  background-color: cornflowerblue;
+ 
+}
+.head{
+  background-color: darkgray;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  text-align: center;
+  height: 150px;
+  width: 700px;
+  border-radius: 10px;
+  margin-left: 420px;
+  align-items:center;
+
+}
+
+.he2{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  }
+.head h1{
+  color: bisque;
+  height: 20px;
+  width: 50%;
+  margin-left: 100px;
+}
+.head input{
+  border-radius: 5px;
+  height: 30px;
+  width: 40%;
+  margin-left: 100px;
+  margin-top: 20px;
+  
+}
+.mov{
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 50px;
+  margin-left: 50px;
+  justify-content:space-around;
+}
+.ca{
+  margin-top: 20px;
+}
+.mov Card{
+  height: 70px;
+  width:50px;
+  margin-top: 30px;
+}
+.carb{
+  text-decoration: aqua;
+  text-align: center;
+  background-color:#e5eaee;
+  align-items:center;
+
+}
+.imcard{
+height: 450px;
+}
+.fa fa-star checked{
+color: darkorange;
+
+}
+.stars{
+  text-align :center;
+   margin-left:120px;
+   align-items:center;
+}
+.bamovie{
+margin-top: -2980px;
+margin-left: 850px;
+}
+.mamovie input{
+margin-left: 2px;
+border-radius: 5px;
+  height: 30px;
+  width: 40%;
+}
+.mamovie span{
+  color:darkblue;
+  height: 30px;
+  width: 40%;
+}
+.vid{
+  margin-left: 580px;
+  margin-top: -750px;
+}
